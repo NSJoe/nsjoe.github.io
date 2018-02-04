@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'NSJoe'
-description: 'iOS Dev, 爱写UI又不会设计的🐵'
-keyword: 'Joe, iOS, '
+description: 'iOS Dev, 对设计感兴趣, 纯UI工程师'
+keyword: 'iOS, '
 url: 'https://nsjoe.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -19,7 +19,7 @@ footer:
 # Author 配置博主信息
 author: 'Joe'
 nickname: 'Joe'
-bio: 'iOS Dev'
+bio: 'iOS Dev, 对设计感兴趣, 纯UI工程师'
 avatar: '/assets/img/Joe.JPG'
 
 # Search
@@ -53,9 +53,7 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   email: 'joeadeline@icloud.com'
-  weibo: ''
-  juejin: ''
-  instagram: ''
+  weibo: '//weibo.com/sangdesiljoe'
   github: '//github.com/NSJoe'
 
 # Tags 设置标签
